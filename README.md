@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Stella 👋</h1>
+<h1 align="center">Hello, I'm Stella 👋</h1>
 
 <h3 align="center">
   Backend Development | DevOps | Cloud Engineering
