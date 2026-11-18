@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a technology enthusiast with a growing focus on software engineering.
+I'm a technology enthusiast with a growing focus on software engineering and devOps with cloud engineering
 
 My interests lie at the intersection of **Backend Development, DevOps, and Cloud Engineering** — understanding not just how applications are built, but also how they are deployed, automated, maintained, and scaled.
 
